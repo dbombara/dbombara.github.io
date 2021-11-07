@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+# Dependencies
+markdown:    kramdown
+highlighter: rouge

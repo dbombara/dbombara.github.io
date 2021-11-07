@@ -1,7 +1,7 @@
 ---
 title: Welcome
 layout: template
-filename: welcome
+filename: index
 --- 
 
 # Hello!

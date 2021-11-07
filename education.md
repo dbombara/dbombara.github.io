@@ -1,7 +1,7 @@
 ---
-title: Qualification of Spaceborne PCMs
+title: Education
 layout: template
-filename: qualification
+filename: education
 --- 
 
 # Qualification of Spaceborne Phase-Changing Materials (PCM) for Low-Earth Orbit (LEO)

@@ -4,7 +4,7 @@ layout: template
 filename: welcome
 --- 
 
-# Hello!
+# Welcome!
 
 I am currently pursuing a **Master of Science in mechanical engineering** at the University of Nevada, Reno. My broad research interests include nonlinear control systems, soft robotics, and phase-changing materials with applications to space technology.
 

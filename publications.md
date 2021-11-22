@@ -2,11 +2,10 @@
 title: Publications
 layout: template
 filename: publications
---- 
-
+---
 # Journal Publications
 
-\[J3\]: **D. Bombara**, C. Williams, S. Borg, and H. J. Kim, “Automated real-time spectral characterization of phase-change tunable filters using a linear variable filter and IR camera for wide-field MWIR imaging,” in *Optical Engineering*, vol. 60, no. 8, p. 084105, Aug. 2021, doi: 10.1117/1.OE.60.8.084105.
+\[J3\]: **D. Bombara**, C. Williams, S. Borg, and H. J. Kim, “Automated real-time spectral characterization of phase-change tunable filters using a linear variable filter and IR camera for wide-field MWIR imaging,”in *Optical Engineering*, vol. 60, no. 8, p. 084105, Aug. 2021, doi: 10.1117/1.OE.60.8.084105.
 
 \[J2\]: **D. Bombara**, R. Konda and J. Zhang, “Experimental characterization and modeling of the self-sensing property in compliant twisted string actuators,” in *IEEE Robotics and Automation Letters*, vol. 6, no. 2, pp. 974-981, April 2021, doi: 10.1109/LRA.2021.3056372.
 

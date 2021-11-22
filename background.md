@@ -4,10 +4,12 @@ layout: template
 filename: background
 --- 
 
-# Education
+# Background
+
+## Education
 My undergraduate background is **mechanical engineering**, but now in graduate school my studies have been more interdisciplinary. For my master’s degree program, my coursework has focused on **control theory** for both **linear and nonlinear systems**, with coursework from the **electrical engineering** and mechanical engineering departments. I also took a graduate-level course on **machine learning** (named “Machine Intelligence”). My coursework has enabled me to study the complex (and nonlinear) systems that are artificial muscles and soft robotics. My undergraduate background gave me a broad base of knowledge that enables me to tackle a wide range of problems related to electrical and mechanical engineering.
 
-# Experience
+## Experience
 I began my research career at the ***Smart Robotics Laboratory*** at the University of Nevada, Reno Mechanical Engineering Department (2018–Present). My work has involved the experimental characterization, modeling, and control of **soft actuators and soft robots**. For this research, I exercise mechatronics skills such as C++ programming and circuit prototyping for automated motor control and data acquisition. I also apply mathematical models (both data-driven and physics-based) to describe the mechanics of these actuators and robots. In this lab, I published my work in IEEE Robotics and Automation Letters and Soft Robotics as the first-author.
 
 The second main aspect of my research career thus far was through a virtual internship with **NASA Langley Research Center** (June 2020–May 2021). I worked with a research team that is developing **actively tunable optical filters** made from **phase-changing materials**. My research conducted through this internship is published in SPIE’s Optical Engineering with myself as the first author.

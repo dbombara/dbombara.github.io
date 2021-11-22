@@ -3,13 +3,13 @@ title: Publications
 layout: template
 filename: publications
 ---
-# Journal and Conference Papers Under Review
+## Journal and Conference Papers Under Review
 
-\[J5\]: **D. Bombara**\*, R. Konda*, E. Chow, R. Coulter, and J. Zhang, "A twisted string actuator-powered soft robotic
+\[J5\]: **D. Bombara**\*, R. Konda\*, E. Chow, R. Coulter, and J. Zhang, "A twisted string actuator-powered soft robotic
 manipulator: design, characterization, modeling, and open-loop control," in *IEEE Transactions on Robotics*. Under
 review.
 
-\[J4\]: **D. Bombara**\*, R. Konda*, and J. Zhang, "Overtwisting and coiling highly enhances strain generation of
+\[J4\]: **D. Bombara**\*, R. Konda\*, and J. Zhang, "Overtwisting and coiling highly enhances strain generation of
 twisted string actuators," in *Soft Robotics*. Under review.
 
 \[C9\]: H. J. Kim, S. Borg, W. Humphreys, M. Julian, C. Williams, **D. Bombara**, Y. Zhang, J. Hu, and T. Gu, "Phase-change-material (PCM)-based actively tunable filters for both terrestrial and spaceborne platforms" in *High Contrast Metastructures XI, International Society for Optics and Photonics*, to appear.
@@ -22,7 +22,7 @@ twisted string actuators," in *Soft Robotics*. Under review.
 
 \[C5\]: **D. Bombara**\*, R. Konda\*, and J. Zhang, “Overtwisting and coiling of twisted string actuators for large strain generation” in *2022 39th IEEE International Conference on Robotics and Automation (ICRA)*, Philadelphia, PA, submitted.
 
-# Journal Publications
+## Journal Publications
 
 \[J3\]: **D. Bombara**, C. Williams, S. Borg, and H. J. Kim, “Automated real-time spectral characterization of phase-change tunable filters using a linear variable filter and IR camera for wide-field MWIR imaging,”in *Optical Engineering*, vol. 60, no. 8, p. 084105, Aug. 2021, doi: 10.1117/1.OE.60.8.084105.
 
@@ -30,9 +30,9 @@ twisted string actuators," in *Soft Robotics*. Under review.
 
 \[J1\]: **D. Bombara**, S. Fowzer, and J. Zhang, “Compliant, large-strain, and self-sensing twisted string actuators,” in *Soft Robotics*. Ahead of Print, doi: 10.1089/soro.2020.0086.
 
-# Conference Proceedings and Presentations
+## Conference Proceedings and Presentations
 
-\[C4\]: D. **Bombara**\*, R. Coulter*, R. Konda*, and J. Zhang, “A twisted string actuator-driven soft robotic manipulator,” in the *2021 Modeling, Estimation, and Controls Conference*, Austin, TX, USA, 2021, to appear. (*equal contribution)
+\[C4\]: D. **Bombara**\*, R. Coulter\*, R. Konda\*, and J. Zhang, “A twisted string actuator-driven soft robotic manipulator,” in the *2021 Modeling, Estimation, and Controls Conference*, Austin, TX, USA, 2021, to appear. (*equal contribution)
 
 \[C3\]: H. J. Kim, M. Julian, C. Williams, S. Borg, **D. Bombara**, and W. Humphreys “Active tunable MWIR filters: phase-change tunable filters for MWIR imaging based on GeSbTe-integrated metasurfaces”, Proc. SPIE 11723, Image Sensing Technologies: Materials, Devices, Systems, and Applications VIII, 1172304 (12 April 2021); https://doi.org/10.1117/12.2586511.
 

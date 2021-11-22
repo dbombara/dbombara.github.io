@@ -3,6 +3,8 @@ title: Publications
 layout: template
 filename: publications
 ---
+# Publications
+
 ## Journal and Conference Papers Under Review
 
 \[J5\]: **D. Bombara**\*, R. Konda\*, E. Chow, R. Coulter, and J. Zhang, "A twisted string actuator-powered soft robotic

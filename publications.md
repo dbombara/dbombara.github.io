@@ -3,6 +3,25 @@ title: Publications
 layout: template
 filename: publications
 ---
+# Journal and Conference Papers Under Review
+
+\[J5\]: **D. Bombara**\*, R. Konda*, E. Chow, R. Coulter, and J. Zhang, "A twisted string actuator-powered soft robotic
+manipulator: design, characterization, modeling, and open-loop control," in *IEEE Transactions on Robotics*. Under
+review.
+
+\[J4\]: **D. Bombara**\*, R. Konda*, and J. Zhang, "Overtwisting and coiling highly enhances strain generation of
+twisted string actuators," in *Soft Robotics*. Under review.
+
+\[C9\]: H. J. Kim, S. Borg, W. Humphreys, M. Julian, C. Williams, **D. Bombara**, Y. Zhang, J. Hu, and T. Gu, "Phase-change-material (PCM)-based actively tunable filters for both terrestrial and spaceborne platforms" in *High Contrast Metastructures XI, International Society for Optics and Photonics*, to appear.
+
+\[C8\]: T. Tsabedze, **D. Bombara**, R. Konda, and J. Zhang, “A comparative study between twisted string actuators and spooled-motor tendon-driven actuators,” in *2022 American Control Conference*, Atlanta, GA, submitted.
+
+\[C7\]: **D. Bombara**, R. Konda, Z. Kibria, and J. Zhang, "Inverse modeling for component selection of twisted string actuators," in 2022 39th *IEEE International Conference on Robotics and Automation*, Philadelphia, PA, submitted.
+
+\[C6\]: **D. Bombara**\*, R. Konda\*, E. Chow, and J. Zhang, “Physics-based kinematic modeling of a twisted string actuator-driven soft robotic manipulator,” in *2022 American Control Conference*, Atlanta, GA, submitted.
+
+\[C5\]: **D. Bombara**\*, R. Konda\*, and J. Zhang, “Overtwisting and coiling of twisted string actuators for large strain generation” in *2022 39th IEEE International Conference on Robotics and Automation (ICRA)*, Philadelphia, PA, submitted.
+
 # Journal Publications
 
 \[J3\]: **D. Bombara**, C. Williams, S. Borg, and H. J. Kim, “Automated real-time spectral characterization of phase-change tunable filters using a linear variable filter and IR camera for wide-field MWIR imaging,”in *Optical Engineering*, vol. 60, no. 8, p. 084105, Aug. 2021, doi: 10.1117/1.OE.60.8.084105.

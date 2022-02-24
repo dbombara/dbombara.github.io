@@ -14,15 +14,8 @@ review.
 \[J4\]: **D. Bombara**\*, R. Konda\*, and J. Zhang, "Overtwisting and coiling highly enhances strain generation of
 twisted string actuators," in *Soft Robotics*. Under review.
 
-\[C9\]: H. J. Kim, S. Borg, W. Humphreys, M. Julian, C. Williams, **D. Bombara**, Y. Zhang, J. Hu, and T. Gu, "Phase-change-material (PCM)-based actively tunable filters for both terrestrial and spaceborne platforms" in *High Contrast Metastructures XI, International Society for Optics and Photonics*, to appear.
+\[C7\]: T. Tsabedze, **D. Bombara**, R. Konda, and J. Zhang, “A comparative study between twisted string actuators and spooled-motor tendon-driven actuators,” in *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems*, Kyoto, Japan, submitted.
 
-\[C8\]: T. Tsabedze, **D. Bombara**, R. Konda, and J. Zhang, “A comparative study between twisted string actuators and spooled-motor tendon-driven actuators,” in *2022 American Control Conference*, Atlanta, GA, submitted.
-
-\[C7\]: **D. Bombara**, R. Konda, Z. Kibria, and J. Zhang, "Inverse modeling for component selection of twisted string actuators," in 2022 39th *IEEE International Conference on Robotics and Automation*, Philadelphia, PA, submitted.
-
-\[C6\]: **D. Bombara**\*, R. Konda\*, E. Chow, and J. Zhang, “Physics-based kinematic modeling of a twisted string actuator-driven soft robotic manipulator,” in *2022 American Control Conference*, Atlanta, GA, submitted.
-
-\[C5\]: **D. Bombara**\*, R. Konda\*, and J. Zhang, “Overtwisting and coiling of twisted string actuators for large strain generation” in *2022 39th IEEE International Conference on Robotics and Automation (ICRA)*, Philadelphia, PA, submitted.
 
 ## Journal Publications
 
@@ -33,6 +26,10 @@ twisted string actuators," in *Soft Robotics*. Under review.
 \[J1\]: **D. Bombara**, S. Fowzer, and J. Zhang, “Compliant, large-strain, and self-sensing twisted string actuators,” in *Soft Robotics*. Ahead of Print, doi: 10.1089/soro.2020.0086.
 
 ## Conference Proceedings and Presentations
+
+\[C6\]: H. J. Kim, S. Borg, W. Humphreys, M. Julian, C. Williams, **D. Bombara**, Y. Zhang, J. Hu, and T. Gu, "Phase-change-material (PCM)-based actively tunable filters for both terrestrial and spaceborne platforms" in *High Contrast Metastructures XI, International Society for Optics and Photonics*.
+
+\[C5\]: **D. Bombara**\*, R. Konda\*, E. Chow, and J. Zhang, “Physics-based kinematic modeling of a twisted string actuator-driven soft robotic manipulator,” in *2022 American Control Conference*, Atlanta, GA, to appear.
 
 \[C4\]: D. **Bombara**\*, R. Coulter\*, R. Konda\*, and J. Zhang, “A twisted string actuator-driven soft robotic manipulator,” in the *2021 Modeling, Estimation, and Controls Conference*, Austin, TX, USA, 2021, to appear. (*equal contribution)
 

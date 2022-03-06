@@ -7,6 +7,9 @@ filename: publications
 
 ## Journal and Conference Papers Under Review
 
+\[J6\]
+**D. Bombara**, R. Konda, Z. Kibria, and J. Zhang, "Inverse modeling for component selection of twisted string actuators," in *IEEE/ASME Transactions on Mechatronics*. Submitted.
+
 \[J5\]: **D. Bombara**\*, R. Konda\*, E. Chow, R. Coulter, and J. Zhang, "A twisted string actuator-powered soft robotic
 manipulator: design, characterization, modeling, and open-loop control," in *IEEE Transactions on Robotics*. Under
 review.

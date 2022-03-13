@@ -17,7 +17,9 @@ review.
 \[J4\]: **D. Bombara**\*, R. Konda\*, and J. Zhang, "Overtwisting and coiling highly enhances strain generation of
 twisted string actuators," in *Soft Robotics*. Under review.
 
-\[C7\]: T. Tsabedze, **D. Bombara**, R. Konda, and J. Zhang, “A comparative study between twisted string actuators and spooled-motor tendon-driven actuators,” in *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems*, Kyoto, Japan, submitted.
+\[C8\]: R. Konda, **D. Bombara**, and J. Zhang, "Parameter estimation and adaptive control of twisted string actuators," in *2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics*, Sapporo, Japan. Submitted.
+
+\[C7\]: T. Tsabedze, **D. Bombara**, R. Konda, and J. Zhang, "A comparative study between twisted string actuators and spooled-motor tendon-driven actuators," in *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems*, Kyoto, Japan. Submitted.
 
 
 ## Journal Publications

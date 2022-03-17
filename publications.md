@@ -7,10 +7,9 @@ filename: publications
 
 ## Journal and Conference Papers Under Review
 
-\[J7\] **D. Bombara**, R. Konda, S. Swanbeck, and J. Zhang, "Anthropomorphic twisted string actuated soft robotic gripper with tendon-based stiffening," in _IEEE Transaction on Robotics_. Under review.
+\[J7\]: **D. Bombara**, R. Konda, S. Swanbeck, and J. Zhang, "Anthropomorphic twisted string actuated soft robotic gripper with tendon-based stiffening," in _IEEE Transaction on Robotics_. Under review.
 
-\[J6\]
-**D. Bombara**, R. Konda, Z. Kibria, and J. Zhang, "Inverse modeling for component selection of twisted string actuators," in *IEEE/ASME Transactions on Mechatronics*. Under review.
+\[J6\]: **D. Bombara**, R. Konda, Z. Kibria, and J. Zhang, "Inverse modeling for component selection of twisted string actuators," in *IEEE/ASME Transactions on Mechatronics*. Under review.
 
 \[J5\]: **D. Bombara**\*, R. Konda\*, E. Chow, R. Coulter, and J. Zhang, "A twisted string actuator-powered soft robotic
 manipulator: design, characterization, modeling, and open-loop control," in *IEEE Transactions on Robotics*. Under

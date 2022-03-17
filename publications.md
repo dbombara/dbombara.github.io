@@ -11,12 +11,10 @@ filename: publications
 
 \[J6\]: **D. Bombara**, R. Konda, Z. Kibria, and J. Zhang, "Inverse modeling for component selection of twisted string actuators," in *IEEE/ASME Transactions on Mechatronics*. Under review.
 
-\[J5\]: **D. Bombara**\*, R. Konda\*, E. Chow, R. Coulter, and J. Zhang, "A twisted string actuator-powered soft robotic
-manipulator: design, characterization, modeling, and open-loop control," in *IEEE Transactions on Robotics*. Under
-review (\*: equal contribution)..
+\[J5\]: **D. Bombara**\*, R. Konda\*, E. Chow, R. Coulter, and J. Zhang, "A twisted string actuator-powered soft robotic manipulator: design, characterization, modeling, and open-loop control," in *IEEE Transactions on Robotics*. Under review (\*: equal contribution).
 
 \[J4\]: **D. Bombara**\*, R. Konda\*, and J. Zhang, "Overtwisting and coiling highly enhances strain generation of
-twisted string actuators," in *Soft Robotics*. Under review (\*: equal contribution)..
+twisted string actuators," in *Soft Robotics*. Under review (\*: equal contribution).
 
 \[C8\]: R. Konda, **D. Bombara**, and J. Zhang, "Parameter estimation and adaptive control of twisted string actuators," in *2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics*, Sapporo, Japan. Under review.
 

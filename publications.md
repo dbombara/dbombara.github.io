@@ -7,8 +7,10 @@ filename: publications
 
 ## Journal and Conference Papers Under Review
 
+\[J7\] **D. Bombara**, R. Konda, S. Swanbeck, and J. Zhang, "Anthropomorphic twisted string actuated soft robotic gripper with tendon-based stiffening," in _IEEE Transaction on Robotics_. Under review.
+
 \[J6\]
-**D. Bombara**, R. Konda, Z. Kibria, and J. Zhang, "Inverse modeling for component selection of twisted string actuators," in *IEEE/ASME Transactions on Mechatronics*. Submitted.
+**D. Bombara**, R. Konda, Z. Kibria, and J. Zhang, "Inverse modeling for component selection of twisted string actuators," in *IEEE/ASME Transactions on Mechatronics*. Under review.
 
 \[J5\]: **D. Bombara**\*, R. Konda\*, E. Chow, R. Coulter, and J. Zhang, "A twisted string actuator-powered soft robotic
 manipulator: design, characterization, modeling, and open-loop control," in *IEEE Transactions on Robotics*. Under
@@ -17,9 +19,9 @@ review.
 \[J4\]: **D. Bombara**\*, R. Konda\*, and J. Zhang, "Overtwisting and coiling highly enhances strain generation of
 twisted string actuators," in *Soft Robotics*. Under review.
 
-\[C8\]: R. Konda, **D. Bombara**, and J. Zhang, "Parameter estimation and adaptive control of twisted string actuators," in *2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics*, Sapporo, Japan. Submitted.
+\[C8\]: R. Konda, **D. Bombara**, and J. Zhang, "Parameter estimation and adaptive control of twisted string actuators," in *2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics*, Sapporo, Japan. Under review.
 
-\[C7\]: T. Tsabedze, **D. Bombara**, R. Konda, and J. Zhang, "A comparative study between twisted string actuators and spooled-motor tendon-driven actuators," in *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems*, Kyoto, Japan. Submitted.
+\[C7\]: T. Tsabedze, **D. Bombara**, R. Konda, and J. Zhang, "A comparative study between twisted string actuators and spooled-motor tendon-driven actuators," in *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems*, Kyoto, Japan. Under review.
 
 
 ## Journal Publications

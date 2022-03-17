@@ -33,7 +33,7 @@ twisted string actuators," in *Soft Robotics*. Under review.
 ## Conference Proceedings and Presentations
 
 \[C6\]: H. J. Kim, S. Borg, W. Humphreys, M. Julian, C. Williams, **D. Bombara**, Y. Zhang, J. Hu, and T. Gu, "Phase-change-material (PCM)-based actively tunable filters for both terrestrial and spaceborne platforms" in *High Contrast Metastructures XI, International Society for Optics and Photonics*.
-1
+
 \[C5\]: **D. Bombara**\*, R. Konda\*, E. Chow, and J. Zhang, “Physics-based kinematic modeling of a twisted string actuator-driven soft robotic manipulator,” in *2022 American Control Conference*, Atlanta, GA, to appear.
 
 \[C4\]: D. **Bombara**\*, R. Coulter\*, R. Konda\*, and J. Zhang, “A twisted string actuator-driven soft robotic manipulator,” in the *2021 Modeling, Estimation, and Controls Conference*, Austin, TX, USA, 2021, vol. 54, pp. 141–146. doi: [10.1016/j.ifacol.2021.11.166](https://doi.org/10.1016/j.ifacol.2021.11.166) (\*equal contribution).

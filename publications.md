@@ -7,16 +7,16 @@ filename: publications
 
 ## Journal and Conference Papers Under Review
 
-\[J7\]: **D. Bombara**, R. Konda, S. Swanbeck, and J. Zhang, "Anthropomorphic twisted string actuated soft robotic gripper with tendon-based stiffening," in _IEEE Transaction on Robotics_. Under review.
+\[J7\]: **D. Bombara**\*, R. Konda\*, S. Swanbeck\*, and J. Zhang, "Anthropomorphic twisted string actuated soft robotic gripper with tendon-based stiffening," in _IEEE Transaction on Robotics_. Under review (\*: equal contribution).
 
 \[J6\]: **D. Bombara**, R. Konda, Z. Kibria, and J. Zhang, "Inverse modeling for component selection of twisted string actuators," in *IEEE/ASME Transactions on Mechatronics*. Under review.
 
 \[J5\]: **D. Bombara**\*, R. Konda\*, E. Chow, R. Coulter, and J. Zhang, "A twisted string actuator-powered soft robotic
 manipulator: design, characterization, modeling, and open-loop control," in *IEEE Transactions on Robotics*. Under
-review.
+review (\*: equal contribution)..
 
 \[J4\]: **D. Bombara**\*, R. Konda\*, and J. Zhang, "Overtwisting and coiling highly enhances strain generation of
-twisted string actuators," in *Soft Robotics*. Under review.
+twisted string actuators," in *Soft Robotics*. Under review (\*: equal contribution)..
 
 \[C8\]: R. Konda, **D. Bombara**, and J. Zhang, "Parameter estimation and adaptive control of twisted string actuators," in *2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics*, Sapporo, Japan. Under review.
 
@@ -35,12 +35,12 @@ twisted string actuators," in *Soft Robotics*. Under review.
 
 \[C6\]: H. J. Kim, S. Borg, W. Humphreys, M. Julian, C. Williams, **D. Bombara**, Y. Zhang, J. Hu, and T. Gu, "Phase-change-material (PCM)-based actively tunable filters for both terrestrial and spaceborne platforms" in *High Contrast Metastructures XI, International Society for Optics and Photonics*.
 
-\[C5\]: **D. Bombara**\*, R. Konda\*, E. Chow, and J. Zhang, “Physics-based kinematic modeling of a twisted string actuator-driven soft robotic manipulator,” in *2022 American Control Conference*, Atlanta, GA, to appear.
+\[C5\]: **D. Bombara**\*, R. Konda\*, E. Chow, and J. Zhang, “Physics-based kinematic modeling of a twisted string actuator-driven soft robotic manipulator,” in *2022 American Control Conference*, Atlanta, GA, to appear (\*: equal contribution).
 
-\[C4\]: D. **Bombara**\*, R. Coulter\*, R. Konda\*, and J. Zhang, “A twisted string actuator-driven soft robotic manipulator,” in the *2021 Modeling, Estimation, and Controls Conference*, Austin, TX, USA, 2021, vol. 54, pp. 141–146. doi: [10.1016/j.ifacol.2021.11.166](https://doi.org/10.1016/j.ifacol.2021.11.166) (\*equal contribution).
+\[C4\]: D. **Bombara**\*, R. Coulter\*, R. Konda\*, and J. Zhang, “A twisted string actuator-driven soft robotic manipulator,” in the *2021 Modeling, Estimation, and Controls Conference*, Austin, TX, USA, 2021, vol. 54, pp. 141–146. doi: [10.1016/j.ifacol.2021.11.166](https://doi.org/10.1016/j.ifacol.2021.11.166) (\*: equal contribution).
 
 \[C3\]: H. J. Kim, M. Julian, C. Williams, S. Borg, **D. Bombara**, and W. Humphreys “Active tunable MWIR filters: phase-change tunable filters for MWIR imaging based on GeSbTe-integrated metasurfaces”, Proc. SPIE 11723, Image Sensing Technologies: Materials, Devices, Systems, and Applications VIII, 1172304 (12 April 2021), doi: [10.1117/12.2586511](https://doi.org/10.1117/12.2586511).
 
-\[C2\]: J. Zhang, **D. Bombara**, S. Fowzer and C. Brennan, “Compliant and large-strain twisted string actuators using supercoiled polymers,” 2020 *3rd IEEE International Conference on Soft Robotics (RoboSoft)*, New Haven, CT, USA, 2020, pp. 201-207. doi: [10.1109/RoboSoft48309.2020.9115985](https://doi.org/10.1109/RoboSoft48309.2020.9115985).
+\[C2\]: J. Zhang, **D. Bombara**, S. Fowzer and C. Brennan, "Compliant and large-strain twisted string actuators using supercoiled polymers," 2020 *3rd IEEE International Conference on Soft Robotics (RoboSoft)*, New Haven, CT, USA, 2020, pp. 201-207. doi: [10.1109/RoboSoft48309.2020.9115985](https://doi.org/10.1109/RoboSoft48309.2020.9115985).
 
 \[C1\]: **D. Bombara**, V. Mansurov, R. Konda, S. Fowzer, and J. Zhang, “Self-sensing for twisted string actuators using conductive supercoiled polymers,” in *Proc. ASME Conf. Smart Materials, Adaptive Structures and Intelligent Systems (SMASIS)*, Paper SMASIS2019-5587, 2019.

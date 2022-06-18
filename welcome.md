@@ -12,4 +12,4 @@ I am spending the summer of 2022 at [NASA Johnson Space Center](https://www.nasa
 
 In the fall of 2022, I will begin a Ph.D. program at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/). I will join the [Harvard Microrobotics Laboratory](https://www.micro.seas.harvard.edu/) as a graduate research assistant. I will be supported by the [National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/) program.
 
-Please feel welcome reach out via email (davidbombara\[at\]g.harvard.edu) or [LinkedIn](https://www.linkedin.com/in/david-bombara-jr/)!
+Please feel welcome to reach out via email (davidbombara\[at\]g.harvard.edu) or [LinkedIn](https://www.linkedin.com/in/david-bombara-jr/)!

@@ -6,7 +6,7 @@ filename: welcome
 
 ## Welcome!
 
-I am a Ph.D. student at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/). I joined the [Harvard Microrobotics Laboratory](https://www.micro.seas.harvard.edu/) as a graduate research assistant. I am supported by the [National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/) program.
+I am a Ph.D. student at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/). I am supported by the [National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/) program and the Harvard Graduate Prize Fellowship.
 
 I graduated with a Master of Science in mechanical engineering in August 2022 from the [University of Nevada, Reno](https://www.unr.edu/). I completed my research in the [Smart Robotics Laboratory](https://packpages.unr.edu/jun).
 

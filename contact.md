@@ -23,6 +23,6 @@ LinkedIn: [https://www.linkedin.com/in/david-bombara-jr/](https://www.linkedin.c
 
 [Robotic Systems Technology Branch at NASA JSC](https://er.jsc.nasa.gov/ER4/)
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=KeQk5noAAAAJ&hl=en)  
+[Google Scholar Profile](https://scholar.google.com/citations?user=81Yx5YMAAAAJ&hl=en)  
 
 [NASA Space Technology Graduate Research Opportunities 2021 Awardees](https://www.nasa.gov/directorates/spacetech/strg/nstrgo_2021/)  

@@ -4,7 +4,7 @@ layout: template
 filename: welcome
 --- 
 
-## Welcome!
+# Welcome! Please visit my new website: [davidbombara.github.io](https://davidbombara.github.io/).
 
 I am a Ph.D. student at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/). I am supported by the [National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/) program and the Harvard Graduate Prize Fellowship.
 
